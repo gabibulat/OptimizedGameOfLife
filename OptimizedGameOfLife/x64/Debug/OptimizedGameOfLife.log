@@ -1,0 +1,8 @@
+﻿  CellMap.cpp
+C:\Users\bulat\Desktop\OptimizedGameOfLife\OptimizedGameOfLife\CellMap.cpp(86,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bulat\Desktop\OptimizedGameOfLife\OptimizedGameOfLife\CellMap.cpp(95,13): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\bulat\Desktop\OptimizedGameOfLife\OptimizedGameOfLife\CellMap.cpp(120,16): warning C4018: '<': signed/unsigned mismatch
+  Draw.cpp
+  GameOfLife.cpp
+  Generating Code...
+  OptimizedGameOfLife.vcxproj -> C:\Users\bulat\Desktop\OptimizedGameOfLife\x64\Debug\GameOfLife.exe
